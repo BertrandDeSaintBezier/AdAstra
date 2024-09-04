@@ -27,7 +27,7 @@ A repository tracking my Roadmap of things learned and to learn.
 - regex
 - REST
 ## DMS/RDBMS
-- MS SQL
+- MSSQL
 - PostgreSQL
 - NoSQL
 ## Software
@@ -45,3 +45,4 @@ A repository tracking my Roadmap of things learned and to learn.
 - PHP
 ## Frameworks & Libraries
 - protobuf
+- openSSL
