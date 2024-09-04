@@ -23,7 +23,8 @@ A repository tracking my Roadmap of things learned and to learn.
 - tar + gzip
 - ffmpeg
 - WSL2
-## CS Concepts
+## Computer Science
+- Data Structures & Algorithms
 - regex
 - REST
 ## DMS/RDBMS
