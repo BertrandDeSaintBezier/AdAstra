@@ -8,6 +8,7 @@ A repository tracking my Roadmap of things learned and to learn.
 - QUIC
 - HTTP
 - HTTPS
+- SSL
 - TLS
 - FTP
 - SMTP
