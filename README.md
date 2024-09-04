@@ -21,6 +21,7 @@ A repository tracking my Roadmap of things learned and to learn.
 - grep
 - tar + gzip
 - ffmpeg
+- WSL2
 ## CS Concepts
 - regex
 - REST
