@@ -25,7 +25,10 @@ A repository tracking my Roadmap of things learned and to learn.
 ## CS Concepts
 - regex
 - REST
-- DMS/RDBMS
+## DMS/RDBMS
+- MS SQL
+- PostgreSQL
+- NoSQL
 ## Software
 - git
 - docker
