@@ -46,7 +46,15 @@ A repository tracking my Roadmap of things learned and to learn.
 ## Frameworks & Libraries
 - protobuf
 - openSSL
-# Web
+## Web
 - NGINX
 - Redis
 - RabbitMQ
+## APIs
+- Stripe
+- Google (Maps, Calendar...)
+- Auth0
+- Spotify
+- Rest Countries
+- Spoontacular
+- Giphy
