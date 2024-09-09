@@ -40,9 +40,13 @@ A repository tracking my Roadmap of things learned and to learn.
 - Assembly
 - C#
 - Go
-- HTMX
+- HTMX/HTML/CSS
 - Python
 - PHP
 ## Frameworks & Libraries
 - protobuf
 - openSSL
+# Web
+- NGINX
+- Redis
+- RabbitMQ
