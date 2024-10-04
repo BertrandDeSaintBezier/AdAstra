@@ -58,3 +58,7 @@ A repository tracking my Roadmap of things learned and to learn.
 - Rest Countries
 - Spoontacular
 - Giphy
+## Patterns, Methodologies
+- Shadow Testing
+- Fuzzy Testing
+- Unit Testing
