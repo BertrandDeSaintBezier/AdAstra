@@ -62,3 +62,5 @@ A repository tracking my Roadmap of things learned and to learn.
 - Shadow Testing
 - Fuzzy Testing
 - Unit Testing
+- Load Testing
+- TigerStyle
