@@ -1,8 +1,30 @@
 # Roadmap
-A repository tracking my Roadmap of things learned and to learn.
 
-# Game Engineer Roadmap
-## Networking & Application Protocols
+## Courses
+- [ ] Graphics Programming in C
+- [ ] Raycaster Engine in C
+- [ ] 2d Game Engine in C++
+- [ ] NES Programming in 6502 Assembly
+- [ ] Linux Terminal and Bash Shell
+- [ ] PS1 Programming in MIPS Assembly & C
+- [ ] Compilers, Interpreters & Formal Languages
+- [ ] Handmade Hero (episode 27)
+
+## Projects
+- [ ] HTTP Web Server in C
+- [ ] Pixel Streaming Server in C and C++
+- [ ] DS&A : Stack & Heap Allocators, Memory Arenas, Hash Maps, etc.  
+
+## Books
+- [ ] _The C Programming Language_, Brian Kernighan & Dennis Ritchie
+- [ ] _Beej's Guide to Networking Concepts_, Brian "Beej Jorgenssen" Hall
+- [ ] _Beej's Guide to Network Programming_, Brian "Beej Jorgenssen" Hall
+- [ ] _Beej's Guide to C_, Brian "Beej Jorgenssen" Hall
+- [ ] _Game Programming Patterns_, Robert Nystrom
+- [ ] _Crafting Interpreters_, Robert Nystrom
+
+## Game Engineer Roadmap
+###  Networking & Application Protocols
 - TCP
 - UDP
 - QUIC
@@ -14,7 +36,7 @@ A repository tracking my Roadmap of things learned and to learn.
 - RTMP
 - TELNET
 - ActivityPub
-## CLI Tools
+### CLI Tools
 - cURL
 - jq
 - netcat
@@ -22,19 +44,19 @@ A repository tracking my Roadmap of things learned and to learn.
 - tar + gzip
 - ffmpeg
 - WSL2
-## Computer Science
+### Computer Science
 - Data Structures & Algorithms
 - regex
 - REST
-## DMS/RDBMS
+### DMS/RDBMS
 - MSSQL
 - PostgreSQL
 - NoSQL
-## Software
+### Software
 - git
 - docker
 - postman
-## Programming Languages
+### Programming Languages
 - C
 - C++
 - Assembly
@@ -43,14 +65,14 @@ A repository tracking my Roadmap of things learned and to learn.
 - HTMX/HTML/CSS
 - Python
 - PHP
-## Frameworks & Libraries
+### Frameworks & Libraries
 - protobuf
 - openSSL
-## Web
+### Web
 - NGINX
 - Redis
 - RabbitMQ
-## APIs
+### APIs
 - Stripe
 - Google (Maps, Calendar...)
 - Auth0
@@ -58,7 +80,7 @@ A repository tracking my Roadmap of things learned and to learn.
 - Rest Countries
 - Spoontacular
 - Giphy
-## Patterns, Methodologies
+### Patterns, Methodologies
 - Shadow Testing
 - Fuzzy Testing
 - Unit Testing
