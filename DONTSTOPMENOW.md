@@ -30,7 +30,7 @@
 - [ ] Get published in a magazine or into a photography gallery
 - [ ] Go to a jazz bar for an open-jam session
 
-**PROJECTS : Kubika, demo projects like Allocators, Memory Arena implementations, etc.**
+**OUTPUT : Kubika, demo projects like Allocators, Memory Arena implementations, etc.**
 
 ### 9 Months
 - [ ] Finish all networking books
@@ -38,7 +38,7 @@
 - [ ] Build a real-time audio communications framework or library
 - [ ] TBD
 
-**PROJECTS : TBD**
+**OUTPUT : TBD**
 
 ## Projects
 - [ ] Simple HTTP Web Server in C : network sockets, string parsing
