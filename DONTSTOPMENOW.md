@@ -1,11 +1,15 @@
 # 2026 Roadmap
 
 ## Calendar
+### T-3 Months to Liftoff (January-March)
+- [ ] Invest in upgrading current desktop PC
+- [ ] Buy a new laptop windows or MacBook (?) or Mac Mini (?)
+- [ ] Buy a Steam Deck or Steam Machine
+- [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 
-### 3 Months (January-March 2026)
+### 3 Months (April-June 2026)
 - [ ] Finish *Code : The Hidden Language of Computer Hardware and Software* 
 - [ ] Finish *The C Programming Language* + all included exercises
-- [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 - [ ] Software 3d renderer based on Pikuma course *Graphics Programming in C*
 - [ ] 2d and raycaster engines based on Pikuma courses : *2d Game Engine in C++* and *Raycaster Engine in C*
 - [ ] Follow *Handmade Hero* up to episode 27
@@ -18,7 +22,7 @@
 
 **OUTPUT : 3d Software Renderer, 2d Game Engine, Raycaster Engine**
 
-### 6 Months (April-June 2026)
+### 6 Months (July-September 2026)
 - [ ] Finish ChiliTomatoNoodle *Beginner, Intermediate and Advanced C++ Programming* courses
 - [ ] Read Beej's *Guide to C*, *Networking Concepts* and *Network Programming*
 - [ ] Read *A Discipline of Programming*
@@ -32,7 +36,7 @@
 
 **OUTPUT : Kubika, demo projects like Allocators, Memory Arena implementations, etc.**
 
-### 9 Months
+### 9 Months (October-December 2026)
 - [ ] Finish all networking books
 - [ ] Authoritative Server demo project
 - [ ] Build a real-time audio communications framework or library
