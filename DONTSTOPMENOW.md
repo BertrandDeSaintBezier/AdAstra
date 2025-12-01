@@ -2,24 +2,32 @@
 
 ## Calendar
 ### T-3 Months to Liftoff (January-March 2026)
-- [ ] Invest in upgrading current desktop PC
-- [ ] Buy a new laptop windows or MacBook (?) or Mac Mini (?)
-- [ ] Buy a Steam Deck or Steam Machine
+- [ ] Upgrade current desktop PC (CPU+MotherBoard=1000€;GPU=1200€)
+- [ ] Secondary machine (MacBook=2500€;Mini=2000€)
+- [ ] Buy a Steam Deck and/or Steam Machine (700~1500€)
 - [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 
+Costs :
+- Minimal Upgrade Cost : **1000€**
+- No Upgrade Cost : **2500€**
+- Upgrade + Macbook Cost : **3500€**
+- Upgrade + Macbook + Deck : **4200€**
+- Full Upgrade + Macbook + Deck : **5400€**
+- ~~Full Upgrade + Mac Mini + Macbook + Deck : **7400€**~~
+
 ### 3 Months (April-June 2026)
-- [ ] Finish *Code : The Hidden Language of Computer Hardware and Software* 
+- [ ] Finish *Code : The Hidden Language of Computer Hardware and Software*
 - [ ] Finish *The C Programming Language* + all included exercises
 - [ ] Software 3d renderer based on Pikuma course *Graphics Programming in C*
-- [ ] 2d and raycaster engines based on Pikuma courses : *2d Game Engine in C++* and *Raycaster Engine in C*
+- [ ] 2d and raycaster engines based on Pikuma courses : *2d Game Engine in C++* and *Raycaster Engine in C* (59.99€)
 - [ ] Follow *Handmade Hero* up to episode 27
 - [ ] Take an Ableton course to learn music production
 - [ ] Able to play the major scale from anywhere on the neck
 - [ ] Learn to hold a handstand for 20 seconds
-- [ ] If still boldering, complete 2 reds back-to-back
+- [ ] If still boldering, complete 2 reds back-to-back (389€/year)
 - [ ] Try and go to the museum at least twice a month (6 times total)
 - [ ] If still into film photography, try out darkroom photography/printing
-
+ 
 **OUTPUT : 3d Software Renderer, 2d Game Engine, Raycaster Engine**
 
 ### 6 Months (July-September 2026)
