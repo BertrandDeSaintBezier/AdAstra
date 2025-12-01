@@ -1,7 +1,7 @@
 # 2026 Roadmap
 
 ## Calendar
-### T-3 Months to Liftoff (January-March)
+### T-3 Months to Liftoff (January-March 2026)
 - [ ] Invest in upgrading current desktop PC
 - [ ] Buy a new laptop windows or MacBook (?) or Mac Mini (?)
 - [ ] Buy a Steam Deck or Steam Machine
