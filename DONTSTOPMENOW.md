@@ -8,12 +8,13 @@
 - [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 
 Costs :
-- Minimal Upgrade Cost : **1000€**
-- No Upgrade Cost : **2500€**
-- Upgrade + Macbook Cost : **3500€**
-- Upgrade + Macbook + Deck : **4200€**
-- ~~Full Upgrade + Macbook + Deck : **5400€**~~
-- ~~Full Upgrade + Mac Mini + Macbook + Deck : **7400€**~~
+- Minimal Upgrade : **1000€**
+- Full Upgrade : **2200€**
+- MacBook OR Mac Mini + accessories : **2500€**
+- Upgrade + Mac : **3500€**
+- Upgrade + Mac + Deck : **4200€**
+- ~~Full Upgrade + Mac + Deck : **5400€**~~
+- ~~Full Upgrade + Mac Mini + MacBook + Deck : **7400€**~~
 
 ### 3 Months (April-June 2026)
 - [ ] Finish *Code : The Hidden Language of Computer Hardware and Software*
