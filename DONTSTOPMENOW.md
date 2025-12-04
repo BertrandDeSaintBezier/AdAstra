@@ -12,7 +12,7 @@ Costs :
 - No Upgrade Cost : **2500€**
 - Upgrade + Macbook Cost : **3500€**
 - Upgrade + Macbook + Deck : **4200€**
-- Full Upgrade + Macbook + Deck : **5400€**
+- ~~Full Upgrade + Macbook + Deck : **5400€**~~
 - ~~Full Upgrade + Mac Mini + Macbook + Deck : **7400€**~~
 
 ### 3 Months (April-June 2026)
