@@ -13,8 +13,6 @@
 Costs :
 - PC Upgrade + Mac Pro + Steam Deck : **4200€**
 - PC Upgrade + Mac Max + Steam Deck : **5200€**
-- ~~Full Upgrade + Mac + Deck : **5400€**~~
-- ~~Full Upgrade + Mac Mini + MacBook + Deck : **7400€**~~
 
 ### 3 Months (April-June 2026)
 - [ ] Finish *Code : The Hidden Language of Computer Hardware and Software*
