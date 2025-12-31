@@ -2,17 +2,17 @@
 
 ## Calendar
 ### T-3 Months to Liftoff (January-March 2026)
-- [ ] Upgrade current desktop PC (CPU+MotherBoard=1000€;GPU=1200€)
-- [ ] Secondary machine (MacBook=2500€;Mini=2000€)
+- [ ] Upgrade current desktop PC (1000€)
+   - [ ] CPU : AMD Ryzen 9 9950X
+   - [ ] CPU Cooler : ARCTIC Liquid Freezer III Pro
+   - [ ] Motherboard : MSI MAG B850 TOMAHAWK MAX WIFI
+- [ ] Secondary machine (MacBook=2500~3500€)
 - [ ] Buy a Steam Deck and/or Steam Machine (700~1500€)
 - [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 
 Costs :
-- Minimal Upgrade : **1000€**
-- Full Upgrade : **2200€**
-- MacBook OR Mac Mini + accessories : **2500€**
-- Upgrade + Mac : **3500€**
-- Upgrade + Mac + Deck : **4200€**
+- PC Upgrade + Mac Pro + Steam Deck : **4200€**
+- PC Upgrade + Mac Max + Steam Deck : **5200€**
 - ~~Full Upgrade + Mac + Deck : **5400€**~~
 - ~~Full Upgrade + Mac Mini + MacBook + Deck : **7400€**~~
 
