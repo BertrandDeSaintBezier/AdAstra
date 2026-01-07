@@ -2,17 +2,20 @@
 
 ## Calendar
 ### T-3 Months to Liftoff (January-March 2026)
-- [ ] Upgrade current desktop PC (1000€)
+- [ ] Upgrade current desktop PC (1000€~1600€)
    - [ ] CPU : AMD Ryzen 9 9950X
    - [ ] CPU Cooler : ARCTIC Liquid Freezer III Pro
    - [ ] Motherboard : MSI MAG B850 TOMAHAWK MAX WIFI
+   - [ ] GPU : ASUS Prime Radeon RX 9070 XT
 - [ ] Secondary machine (MacBook=2500~3500€)
 - [ ] Buy a Steam Deck and/or Steam Machine (700~1500€)
 - [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 
 Costs :
-- PC Upgrade + Mac Pro + Steam Deck : **4200€**
-- PC Upgrade + Mac Max + Steam Deck : **5200€**
+- PC Upgrade + M4 Pro + Steam Deck : **4200€**
+- FULL PC Upgrade + M4 Max + Steam Deck : **4800€**
+- PC Upgrade + M4 Pro + Steam Deck : **5200€**
+- FULL PC Upgrade + M4 Max + Steam Deck : **5800€**
 
 ### 3 Months (April-June 2026)
 - [ ] Finish *Code : The Hidden Language of Computer Hardware and Software*
