@@ -2,6 +2,11 @@
 
 ## Calendar
 ### T-3 Months to Liftoff (January-March 2026)
+- [ ] 1 year Arkose Unlimited Membership (689€/year)
+- [ ] Round trip to Japan (???€)
+- [ ] Rolleiflex revision (250~300€)
+- [ ] UGC Illimité (286€/year)
+- [ ] _Les Amis du Louvre_ membership (45€/year)
 - [ ] Upgrade current desktop PC (1000€~1600€)
    - [ ] CPU : AMD Ryzen 9 9950X
    - [ ] CPU Cooler : ARCTIC Liquid Freezer III Pro
