@@ -2,7 +2,7 @@
 
 ## Calendar
 ### T-3 Months to Liftoff (January-March 2026)
-- [ ] 1 year Arkose Unlimited Membership (689€/year)
+- [ ] 1 year Arkose Unlimited Membership (629€/year)
 - [ ] Round trip to Japan (???€)
 - [ ] Rolleiflex revision (250~300€)
 - [ ] UGC Illimité (286€/year)
