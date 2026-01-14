@@ -2,18 +2,14 @@
 
 ## Calendar
 ### T-3 Months to Liftoff (January-March 2026)
-- [ ] 1 year Arkose Unlimited Membership (629€/year)
 - [ ] Round trip to Japan (???€)
 - [ ] Rolleiflex revision (250~300€)
-- [ ] UGC Illimité (286€/year)
-- [ ] _Les Amis du Louvre_ membership (45€/year)
 - [ ] Upgrade current desktop PC (1000€~1600€)
    - [ ] CPU : AMD Ryzen 9 9950X
    - [ ] CPU Cooler : ARCTIC Liquid Freezer III Pro
    - [ ] Motherboard : MSI MAG B850 TOMAHAWK MAX WIFI
    - [ ] GPU : ASUS Prime Radeon RX 9070 XT
-- [ ] Secondary machine (MacBook=2500~3500€)
-- [ ] Buy a Steam Deck and/or Steam Machine (700~1500€)
+- [ ] Buy a Steam Deck (700€)
 - [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 
 Costs :
