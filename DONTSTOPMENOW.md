@@ -13,10 +13,8 @@
 - [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 
 Costs :
-- PC Upgrade + M4 Pro + Steam Deck : **4200€**
-- FULL PC Upgrade + M4 Max + Steam Deck : **4800€**
-- PC Upgrade + M4 Pro + Steam Deck : **5200€**
-- FULL PC Upgrade + M4 Max + Steam Deck : **5800€**
+- PC Upgrade + Steam Deck : **1700**
+- FULL PC Upgrade + Steam Deck : **2300**
 
 ### 3 Months (April-June 2026)
 - [ ] Finish *Code : The Hidden Language of Computer Hardware and Software*
