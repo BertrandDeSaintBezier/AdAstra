@@ -2,8 +2,6 @@
 
 ## Calendar
 ### T-3 Months to Liftoff (January-March 2026)
-- [ ] Round trip to Japan (???€)
-- [ ] Rolleiflex revision (250~300€)
 - [ ] Upgrade current desktop PC (1000€~1600€)
    - [ ] CPU : AMD Ryzen 9 9950X
    - [ ] CPU Cooler : ARCTIC Liquid Freezer III Pro
@@ -11,10 +9,12 @@
    - [ ] GPU : ASUS Prime Radeon RX 9070 XT
 - [ ] Buy a Steam Deck (700€)
 - [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
+- [ ] Round trip to Japan (???€)
+- [ ] Rolleiflex revision (250~300€)
 
 Costs :
-- PC Upgrade + Steam Deck : **1700**
-- FULL PC Upgrade + Steam Deck : **2300**
+- PC Upgrade + Steam Deck : **1700€**
+- FULL PC Upgrade + Steam Deck : **2300€**
 
 ### 3 Months (April-June 2026)
 - [ ] Finish *Code : The Hidden Language of Computer Hardware and Software*
