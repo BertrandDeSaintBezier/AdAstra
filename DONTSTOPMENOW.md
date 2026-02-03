@@ -7,7 +7,7 @@
    - [ ] CPU Cooler : ARCTIC Liquid Freezer III Pro
    - [ ] Motherboard : MSI MAG B850 TOMAHAWK MAX WIFI
    - [ ] GPU : ASUS Prime Radeon RX 9070 XT
-- [x] Save up for a Steam Deck or Steam Machine (700€)
+- [x] ~~Save up for a Steam Deck or Steam Machine (700€)~~
 - [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 - [ ] Round trip to Japan (???€)
 - [ ] Rolleiflex revision (250~300€)
