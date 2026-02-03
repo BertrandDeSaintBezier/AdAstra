@@ -2,11 +2,11 @@
 
 ## Calendar
 ### T-3 Months to Liftoff (January-March 2026)
-- [ ] Upgrade current desktop PC (1000€~1600€)
-   - [ ] CPU : AMD Ryzen 9 9950X
-   - [ ] CPU Cooler : ARCTIC Liquid Freezer III Pro
-   - [ ] Motherboard : MSI MAG B850 TOMAHAWK MAX WIFI
-   - [ ] GPU : ASUS Prime Radeon RX 9070 XT
+- [ ] Upgrade current desktop PC (1000€~1700€)
+   - [ ] CPU : AMD Ryzen 9 9950X (550€)
+   - [ ] CPU Cooler : ARCTIC Liquid Freezer III Pro (100€)
+   - [ ] Motherboard : MSI MAG B850 TOMAHAWK MAX WIFI (300€)
+   - [ ] GPU : ASUS Prime Radeon RX 9070 XT (800€)
 - [x] ~~Save up for a Steam Deck or Steam Machine (700€)~~
 - [ ] Linux distro installed (dual boot or otherwise) and used for dev projects
 - [ ] Round trip to Japan (???€)
